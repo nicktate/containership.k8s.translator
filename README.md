@@ -1,3 +1,6 @@
 # containership.k8s.translator
 
-Translation layer for containership and k8s
+## Deprecated
+
+Moved into module underneath https://github.com/containership/containership.k8s.bridge
+
